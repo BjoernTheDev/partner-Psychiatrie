@@ -1,6 +1,9 @@
 # partner-Psychiatrie
 Eine App zur Unterstützung psychischer Gesundheit bei Wegfall psychotherapeutischer Hilfsangebote.
 
+## Entwicklung
+Die Entwicklung wurde mit einer DSL aus https://www.jetbrains.com/ erstellt. Daher kann der Code hier leider nur als txt Dateien zur Verfügung gestelllt werden. Falls weiter Code oder Fragen zur Entstehung sind könnt ihr euch gerne an uns wenden :)
+
 ## Inspiration
 Für viele Menschen ist die jetzige Zeit von Angst und Unsicherheit überschattet. Besonders schwerwiegend davon betroffen sind Menschen mit psychischen Erkrankungen:
 Teilstationäre Institutionen fallen weg, Therapiepläne werden gekürzt und ganze psychiatrischen Stationen geschlossen.
