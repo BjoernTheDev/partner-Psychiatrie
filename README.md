@@ -6,14 +6,14 @@ Für viele Menschen ist die jetzige Zeit von Angst und Unsicherheit überschatte
 Teilstationäre Institutionen fallen weg, Therapiepläne werden gekürzt und ganze psychiatrischen Stationen geschlossen.
 Wir stehen Betroffenen bei, indem mit Hilfe unserer App “partner Psychiatrie” die Verbindung zwischen Therapeut*in und Patient*in aufrecht erhalten und eine kontinuierliche therapeutische Begleitung ermöglicht werden kann.
 
-Weitere Informationen finden Sie unter [partner-psychiatrie.de] (http://www.partner-psychiatrie.de).
+Weitere Informationen finden Sie unter http://www.partner-psychiatrie.de.
 
 ## What it does
 App “partner Psychiatrie” zur Unterstützung der (teil-) stationär-psychiatrischen Behandlung
 
 Benefits für Behandelnde: Diagnostik, Anamnese, Verlaufsdokumentationen, Vermittlung von Psychoedukations- und Interventionsmaterialien an Pat., Auswertung der Ergebnisse (z.B. individualisierte Symptomlisten). Durch die Auswirkungen des Corona-Virus ist eine effiziente Ersteinschätzung von Patient*innen unabdingbar, um unmittelbare Hilfe zu ermöglichen.
 
-Weitere Informationen finden Behandelnde [hier](https://www.partner-psychiatrie.de/informationen-f%C3%BCr-kliniken).
+Weitere Informationen finden Behandelnde https://www.partner-psychiatrie.de/informationen-f%C3%BCr-kliniken.
 
 **Wenn Sie Arzt*Ärztin bzw. Psychotherapeut*in sind, wenden Sie sich an kontakt@partner-psychiatrie.de, um Zugangscodes für Ihre Patient*innen zu erhalten, mit denen diese die App nutzen können.**
 
