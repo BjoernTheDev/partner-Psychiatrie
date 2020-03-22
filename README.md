@@ -9,7 +9,7 @@ Für viele Menschen ist die jetzige Zeit von Angst und Unsicherheit überschatte
 Teilstationäre Institutionen fallen weg, Therapiepläne werden gekürzt und ganze psychiatrischen Stationen geschlossen.
 Wir stehen Betroffenen bei, indem mit Hilfe unserer App “partner Psychiatrie” die Verbindung zwischen Therapeut/in und Patient/in aufrecht erhalten und eine kontinuierliche therapeutische Begleitung ermöglicht werden kann.
 
-Weitere Informationen finden Sie unter http://www.partner-psychiatrie.de.
+Weitere Informationen finden Sie unter https://www.partner-psychiatrie.de.
 
 ## What it does
 App “partner Psychiatrie” zur Unterstützung der (teil-) stationär-psychiatrischen Behandlung
