@@ -15,9 +15,10 @@ Benefits für Behandelnde: Diagnostik, Anamnese, Verlaufsdokumentationen, Vermit
 
 Weitere Informationen finden Behandelnde https://www.partner-psychiatrie.de/informationen-f%C3%BCr-kliniken.
 
-**Wenn Sie Arzt*Ärztin bzw. Psychotherapeut*in sind, wenden Sie sich an kontakt@partner-psychiatrie.de, um Zugangscodes für Ihre Patient*innen zu erhalten, mit denen diese die App nutzen können.**
+**Wenn Sie Arzt* Ärztin bzw. Psychotherapeut*in sind, wenden Sie sich an kontakt@partner-psychiatrie.de, um Zugangscodes für Ihre Patient*innen zu erhalten, mit denen diese die App nutzen können.
 
 Benefits für Betroffene: Begleitung im Alltag, Psychoedukation und Materialien zu Stimmungs- und Aktivitätenaufbau sowie Emotionsregulation, Verlaufsbeobachtung.
+
 
 Weitere Informationen finden Betroffene [hier](https://www.partner-psychiatrie.de/informationen-f%C3%BCr-patienten).
 
